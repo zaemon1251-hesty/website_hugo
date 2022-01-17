@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 20
 
 title: Recent Posts
 subtitle:
@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - posts
     tag: ''
     category: ''
     publication_type: ''
@@ -33,6 +33,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: compact
-  columns: '2'
+  view: 2
+  columns: '1'
 ---

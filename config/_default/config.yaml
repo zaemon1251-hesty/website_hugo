@@ -5,7 +5,7 @@
 
 title: LESS IS MORE # Website name
 baseurl: 'https://r9y9.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Copyright © Ryuichi YAMAMOTO All rights reserved.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -37,8 +37,10 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  posts: '/blog/:year/:month/:day/:filename/'
-  event: '/talk/:slug/'
+  post: '/blog/:year/:month/:day/:filename/'
+  # NOTE: use prural form (projects) to be backward compatible with my old demo site (demos-src)
+  project: '/projects/:filename/'
+  event: '/talk/:filename/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'

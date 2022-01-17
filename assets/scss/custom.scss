@@ -1,0 +1,20 @@
+//.article-container {
+//    width: 100%;
+//    max-width: 1000px;
+//    min-width: 500px;
+//    margin-right: auto;
+//    margin-left: auto;
+//}
+
+// TODO: condier the following is necessary
+table {
+    display: table;
+    table-layout: fixed
+}
+
+h2, h3, h4, h5, h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+

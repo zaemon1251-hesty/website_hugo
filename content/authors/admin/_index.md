@@ -6,7 +6,7 @@ title: Ryuichi Yamamoto
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Engineer/Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://engineering.linecorp.com/en/research/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a research scientist passionate about speech synthesis. I love to write code and enjoy open-source collaboration on GitHub. Please feel free to reach out on Twitter and GitHub.
+bio: I am a software engineer / researcher passionate about speech synthesis. I love to write code and enjoy open-source collaboration on GitHub. Please feel free to reach out on Twitter and GitHub.
 # My research interests include speech synthesis, voice conversion, and machine learning.
 
 # Interests to show in About widget
@@ -64,7 +64,7 @@ email: zryuichi@gmail.com
 highlight_name: true
 ---
 
-I am a research scientist at [LINE Corporation](https://engineering.linecorp.com/en/research/).
+I am a software engineer / researcher at [LINE Corporation](https://engineering.linecorp.com/en/research/).
 My research interests include statistical speech synthesis, voice conversion, and machine learning.
 Prior to joining LINE Corporation, I worked for music signal processsing, music information retrieval, and computer vision.
 

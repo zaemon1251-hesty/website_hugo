@@ -4,6 +4,9 @@
 title: "ttslearn: Library for Pythonで学ぶ音声合成 (Text-to-speech with Python)"
 summary: ""
 authors: ["admin", "Shinnosuke Takamichi"]
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
 - TTS
 - Python

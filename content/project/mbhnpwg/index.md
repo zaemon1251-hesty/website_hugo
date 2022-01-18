@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "High-fidelity Parallel WaveGAN with Multi-band Harmonic-plus-Noise Model"
-summary: "Published version: [ISCA Archive Interspeech 2021](https://www.isca-speech.org/archive/interspeech_2021/futamata21_interspeech.html)"
+summary: "Published version: [ISCA Archive Interspeech 2021](https://www.isca-speech.org/archive/interspeech_2021/hwang21_interspeech.html)"
 authors: ["Min-Jae Hwang", "admin", "Eunwoo Song", "Jae-Min Kim"]
 author_notes:
 - "Equal contribution"

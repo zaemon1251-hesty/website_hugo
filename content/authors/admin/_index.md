@@ -50,9 +50,9 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.jp/citations?user=PpjbClsAAAAJ&hl=en
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/zryuichi/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zryuichi/
 # - icon: cv
 #   icon_pack: ai
 #   link: https://github.com/r9y9/cv/blob/gh-pages/ryuichi_cv.pdf

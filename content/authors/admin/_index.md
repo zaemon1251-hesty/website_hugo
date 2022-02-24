@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D course in Informatics
+    institution: Nagoya University
+    year: April 2022 -
   - course: M.Eng in Compute Science
     institution: Nagoya Institude of Technology
     year: 2013

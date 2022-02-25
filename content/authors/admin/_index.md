@@ -71,7 +71,9 @@ I am a software engineer / researcher at [LINE Corporation](https://engineering.
 My research interests include statistical speech synthesis, voice conversion, and machine learning.
 Prior to joining LINE Corporation, I worked for music signal processsing, music information retrieval, and computer vision.
 
-In my spare time, I love to write code and enjoy open-source collaboration on [Github](https://github.com/r9y9).
+In my spare time, I love to write code and enjoy open-source collaboration on [GitHub](https://github.com/r9y9).
+
+I will start my Ph.D at Nagoya University since April 2022.
 
 - {{< icon name="google-scholar" pack="ai" >}} {{< staticref "https://scholar.google.co.jp/citations?user=PpjbClsAAAAJ&hl=en" "newtab" >}}Google Scholar{{< /staticref >}}
 - {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/r9y9/cv/blob/gh-pages/ryuichi_cv.pdf" "newtab" >}}CV{{< /staticref >}}

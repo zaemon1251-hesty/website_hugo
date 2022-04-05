@@ -12,6 +12,8 @@ role: Engineer/Researcher
 organizations:
 - name: LINE Corporaiton
   url: https://engineering.linecorp.com/en/research/
+- name: Nagoya University
+  url: https://www.toda.is.i.nagoya-u.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a software engineer / researcher passionate about speech synthesis. I love to write code and enjoy open-source collaboration on GitHub. Please feel free to reach out on Twitter and GitHub.
@@ -69,11 +71,11 @@ highlight_name: true
 
 I am a software engineer / researcher at [LINE Corporation](https://engineering.linecorp.com/en/research/).
 My research interests include statistical speech synthesis, voice conversion, and machine learning.
-Prior to joining LINE Corporation, I worked for music signal processsing, music information retrieval, and computer vision.
+Before joining LINE Corporation, I worked in music signal processsing, music information retrieval, and computer vision.
 
-In my spare time, I love to write code and enjoy open-source collaboration on [GitHub](https://github.com/r9y9).
+I love to write code and enjoy open-source collaboration on [GitHub](https://github.com/r9y9).
 
-I will start my Ph.D at Nagoya University since April 2022.
+I am also a doctoral student at [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp/) in Nagoya University.
 
 - {{< icon name="google-scholar" pack="ai" >}} {{< staticref "https://scholar.google.co.jp/citations?user=PpjbClsAAAAJ&hl=en" "newtab" >}}Google Scholar{{< /staticref >}}
 - {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/r9y9/cv/blob/gh-pages/ryuichi_cv.pdf" "newtab" >}}CV{{< /staticref >}}

@@ -49,9 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/r9y9
-- icon: github
-  icon_pack: fab
-  link: https://github.com/r9y9
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/r9y9
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.jp/citations?user=PpjbClsAAAAJ&hl=en
@@ -70,12 +70,11 @@ highlight_name: true
 ---
 
 I am a software engineer / researcher at [LINE Corporation](https://engineering.linecorp.com/en/research/).
-My research interests include statistical speech synthesis, voice conversion, and machine learning.
+I am also a Ph.D. student at at Nagoya University, working with my advisor [Prof. Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng?authuser=0) at the [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp/).
+
+My research interests include statistical speech synthesis, voice conversion, singing voice synthesis, and machine learning.
 Before joining LINE Corporation, I worked in music signal processsing, music information retrieval, and computer vision.
 
-I love to write code and enjoy open-source collaboration on [GitHub](https://github.com/r9y9).
-
-I am also a doctoral student at [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp/) in Nagoya University.
-
+- {{< icon name="github" pack="fab" >}} {{< staticref "https://github.com/r9y9" "newtab" >}}GitHub{{< /staticref >}}
 - {{< icon name="google-scholar" pack="ai" >}} {{< staticref "https://scholar.google.co.jp/citations?user=PpjbClsAAAAJ&hl=en" "newtab" >}}Google Scholar{{< /staticref >}}
 - {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/r9y9/cv/blob/gh-pages/ryuichi_cv.pdf" "newtab" >}}CV{{< /staticref >}}

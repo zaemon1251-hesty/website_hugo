@@ -1,21 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Unified Accent Estimation Method Based on Multi-Task Learning for Japanese Text-to-Speech"
+title: "Cross-Speaker Emotion Transfer for Low-Resource Text-to-Speech Using Non-Parallel Voice Conversion with Pitch-Shift Data Augmentation"
 summary: Submitted to [Interspeech 2022](https://interspeech2022.org/)
 authors:
-- Byeongseon Park
+- Ryo Terashima
 - admin
+- Eunwoo Song
+- Yuma Shirahata
+- Hyun-Wook Yoon
+- Jae-Min Kim
 - Kentaro Tachibana
 tags:
 - Deep Learning
-- NLP
+- VC
+- TTS
 - Interspeech
 categories: []
-date: 2022-04-04T12:11:03+09:00
+date: 2022-04-04T12:11:04+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://6gsn.github.io/demos/mtl_accent/"
+external_link: "https://ryojerky.github.io/demo_vc-tts-ps/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

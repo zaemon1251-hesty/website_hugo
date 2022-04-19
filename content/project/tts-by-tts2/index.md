@@ -1,21 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Unified Accent Estimation Method Based on Multi-Task Learning for Japanese Text-to-Speech"
+title: "TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis Using Ranking Support Vector Machine with Variational Autoencoder"
 summary: Submitted to [Interspeech 2022](https://interspeech2022.org/)
 authors:
-- Byeongseon Park
+- Eunwoo Song
 - admin
-- Kentaro Tachibana
+- Ohsung Kwon
+- Chan-Ho Song
+- Min-Jae Hwang
+- Suhyeon Oh
+- Hyun-Wook Yoon
+- Jin-Seob Kim
+- Jae-Min Kim
 tags:
 - Deep Learning
-- NLP
+- TTS
+- VAE
 - Interspeech
 categories: []
-date: 2022-04-04T12:11:03+09:00
+date: 2022-04-04T12:11:05+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://6gsn.github.io/demos/mtl_accent/"
+external_link: "https://sewplay.github.io/demos/txt2/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

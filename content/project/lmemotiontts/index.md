@@ -1,21 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Unified Accent Estimation Method Based on Multi-Task Learning for Japanese Text-to-Speech"
+title: "Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems"
 summary: Submitted to [Interspeech 2022](https://interspeech2022.org/)
 authors:
-- Byeongseon Park
+- Hyunwook Yoon
+- Ohsung Kwon
+- Hoyeon Lee
 - admin
-- Kentaro Tachibana
+- Eunwoo Song
+- Jae-Min Kim
+- Min-Jae Hwang
 tags:
 - Deep Learning
-- NLP
+- VC
+- TTS
 - Interspeech
 categories: []
-date: 2022-04-04T12:11:03+09:00
+date: 2022-04-04T12:11:01+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://6gsn.github.io/demos/mtl_accent/"
+external_link: "https://christophyoon.github.io/lmemotiontts/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Unified Accent Estimation Method Based on Multi-Task Learning for Japanese Text-to-Speech"
+title: "DRSpeech: Degradation-Robust Text-to-Speech Synthesis with Frame-Level and Utterance-Level Acoustic Representation Learning"
 summary: Submitted to [Interspeech 2022](https://interspeech2022.org/)
 authors:
-- Byeongseon Park
-- admin
+- Takaaki Saeki
 - Kentaro Tachibana
+- admin
 tags:
 - Deep Learning
-- NLP
+- TTS
 - Interspeech
 categories: []
-date: 2022-04-04T12:11:03+09:00
+date: 2022-04-04T12:11:07+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://6gsn.github.io/demos/mtl_accent/"
+external_link: "https://takaaki-saeki.github.io/drspeech_demo/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

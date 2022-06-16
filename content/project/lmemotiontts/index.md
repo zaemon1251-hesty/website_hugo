@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems"
-summary: Submitted to [Interspeech 2022](https://interspeech2022.org/)
+summary: Accepted to [Interspeech 2022](https://interspeech2022.org/)
 authors:
 - Hyunwook Yoon
 - Ohsung Kwon

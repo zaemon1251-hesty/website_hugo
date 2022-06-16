@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "A Unified Accent Estimation Method Based on Multi-Task Learning for Japanese Text-to-Speech"
-summary: Submitted to [Interspeech 2022](https://interspeech2022.org/)
+summary: Accepted to [Interspeech 2022](https://interspeech2022.org/)
 authors:
 - Byeongseon Park
 - admin

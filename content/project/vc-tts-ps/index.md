@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Cross-Speaker Emotion Transfer for Low-Resource Text-to-Speech Using Non-Parallel Voice Conversion with Pitch-Shift Data Augmentation"
-summary: Submitted to [Interspeech 2022](https://interspeech2022.org/)
+summary: Accepted to [Interspeech 2022](https://interspeech2022.org/)
 authors:
 - Ryo Terashima
 - admin

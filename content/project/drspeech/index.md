@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "DRSpeech: Degradation-Robust Text-to-Speech Synthesis with Frame-Level and Utterance-Level Acoustic Representation Learning"
-summary: Submitted to [Interspeech 2022](https://interspeech2022.org/)
+summary: Accepted to [Interspeech 2022](https://interspeech2022.org/)
 authors:
 - Takaaki Saeki
 - Kentaro Tachibana

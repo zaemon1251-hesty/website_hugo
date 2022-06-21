@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis Using Ranking Support Vector Machine with Variational Autoencoder"
-summary: Submitted to [Interspeech 2022](https://interspeech2022.org/)
+summary: Accepted to [Interspeech 2022](https://interspeech2022.org/)
 authors:
 - Eunwoo Song
 - admin

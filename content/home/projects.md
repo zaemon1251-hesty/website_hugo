@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Projects
 subtitle: ''
@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: TTS
     tag: TTS
+  - name: SVS
+    tag: SVS
   - name: NLP
     tag: NLP
   - name: Open-Source

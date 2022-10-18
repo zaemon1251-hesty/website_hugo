@@ -1,24 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Period VITS: Variational Inference With Explicit Pitch Modeling For End-to-End Emotional Speech Synthesis"
+title: "Non-parallel High-Quality Audio Super Resolution with Domain Adaptation and Resampling CycleGANs"
 summary: "Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
 authors:
-- Yuma Shirahata
+- Reo Yoneyama
 - admin
-- Eunwoo Song
-- Ryo Terashima
-- Jae-Min Kim
 - Kentaro Tachibana
 tags:
+- Super resolution
+- Python
 - Deep Learning
-- End-to-end
-- TTS
-categories: []
-date: 2022-10-18T14:47:59+09:00
+- Open-Source
+date: 2022-10-18T21:17:44+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://yshira116.github.io/period_vits_demo/"
+external_link: "https://chomeyama.github.io/DualCycleGAN-Demo/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,24 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Period VITS: Variational Inference With Explicit Pitch Modeling For End-to-End Emotional Speech Synthesis"
+title: "Fast and high-fidelity end-to-end text-to-speech for edge devices with multi-band generation and inverse short-time Fourier transform"
 summary: "Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
 authors:
+- Masaya Kawamura1
 - Yuma Shirahata
 - admin
-- Eunwoo Song
-- Ryo Terashima
-- Jae-Min Kim
 - Kentaro Tachibana
 tags:
-- Deep Learning
-- End-to-end
 - TTS
+- Python
+- Deep Learning
+- Open-Source
 categories: []
-date: 2022-10-18T14:47:59+09:00
+date: 2022-10-17T19:22:30+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://yshira116.github.io/period_vits_demo/"
+external_link: "https://masayakawamura.github.io/Demo_MB-iSTFT-VITS_MS-iSTFT-VITS/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

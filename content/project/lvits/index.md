@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Fast and high-fidelity end-to-end text-to-speech for edge devices with multi-band generation and inverse short-time Fourier transform"
+title: "Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform"
 summary: "Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
 authors:
 - Masaya Kawamura1
@@ -17,7 +17,7 @@ categories: []
 date: 2022-10-17T19:22:30+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://masayakawamura.github.io/Demo_MB-iSTFT-VITS_MS-iSTFT-VITS/"
+external_link: "https://masayakawamura.github.io/Demo_MB-iSTFT-VITS/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +35,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/MasayaKawamura/MB-iSTFT-VITS"
 url_pdf: ""
 url_slides: ""
 url_video: ""

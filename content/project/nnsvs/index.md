@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "NNSVS: Neural Network Based Singing Voice Synthesis Toolkit"
+title: "NNSVS: A Neural Network-Based Singing Voice Synthesis Toolkit"
 summary: "Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
 authors:
 - admin
@@ -34,10 +34,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/nnsvs/nnsvs"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=u2210L3JXPo"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -47,7 +47,7 @@ url_video: ""
 slides: ""
 ---
 
-Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/).
+Preprint: [arXiv:2210.15987](https://arxiv.org/abs/2210.15987) (Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/))
 
 
 - [Authors](#authors)
@@ -56,6 +56,11 @@ Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/).
 - [Samples](#samples)
   - [SVS](#svs)
   - [A/S](#as)
+- [Mixed demo](#mixed-demo)
+  - [Sample 1](#sample-1)
+  - [Sample 2](#sample-2)
+  - [Sample 3](#sample-3)
+- [Acknowledgments](#acknowledgments)
 - [Appendix](#appendix)
   - [Note pitch distribution](#note-pitch-distribution)
 - [References](#references)
@@ -68,11 +73,7 @@ Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/).
 
 ## Abstract
 
-This paper describes the design of NNSVS, open-source software for neural network-based singing voice synthesis research.
-NNSVS is inspired by Sinsy, one of the open-source pioneers in singing voice synthesis research, and provides many new features such as multi-stream autoregressive models, autoregressive fundamental frequency models, and neural vocoders.
-Furthermore, NNSVS provides extensive documentation and scripts to build complete singing voice synthesis systems.
-Experimental results demonstrate that our best system significantly outperforms our reproduction of Sinsy and other baseline systems.
-The toolkit is available at https://github.com/nnsvs/nnsvs.
+This paper describes the design of NNSVS, an open-source software for neural network-based singing voice synthesis research. NNSVS is inspired by Sinsy, an open-source pioneer in singing voice synthesis research, and provides many additional features such as multi-stream models, autoregressive fundamental frequency models, and neural vocoders. Furthermore, NNSVS provides extensive documentation and numerous scripts to build complete singing voice synthesis systems. Experimental results demonstrate that our best system significantly outperforms our reproduction of Sinsy and other baseline systems. The toolkit is available at https://github.com/nnsvs/nnsvs.
 
 ## Systems
 
@@ -106,6 +107,8 @@ Notes on baselines
 
 
 ## Samples
+
+The following samples are vocal only. Mixed demo can be found [here](#mixed-demo).
 
 ### SVS
 
@@ -289,15 +292,43 @@ Samples generated from extracted features (i.e., analysis-by-synthesis).
 </thead><tbody><tr><td><audio controls=""><source src="/audio/202210_nnsvs/AnaSyn/[Test05]-hn-USFGAN-WORLD.wav" type="audio/wav"></audio></td>
 <td></td><td></td></tr></tbody></table>
 
+
+## Mixed demo
+
+System: NNSVS-WORLD v4
+
+### Sample 1
+
+ERROR (from test data)
+
+{{< youtube u2210L3JXPo >}}
+
+### Sample 2
+
+ARROW (from test data)
+
+{{< youtube OqwVNUjzgAE >}}
+
+### Sample 3
+
+WAVE (from training data)
+
+{{< youtube _5T0HPfeGjs >}}
+
+## Acknowledgments
+
+This work was partly supported by JST CREST Grant Number JPMJCR19A3.
+
 ## Appendix
 
 ### Note pitch distribution
 
-We selected test songs to cover wide ranges of pitch, which distributions are shown in the following figure.
-Pitch is presented as MIDI note number, where A4 (69) corresponds to 440 Hz.
-The lowerest and highest notes of the test songs were D#4 (155.6 Hz) and A5 (880 Hz).
+We selected test songs to cover a wide range of note pitches. Their distributions are shown in the following figure.
 
 <div align="center"><img src="/images/ritsu_pitch_dist.png" width="100%" /></div>
+
+Pitch is presented as MIDI note number, where A4 (69) corresponds to 440 Hz.
+The lowerest and highest notes of the test songs were D#4 (155.6 Hz) and A5 (880 Hz), whereas those of the training data were D#3 (146.8 Hz) and B5 (987.8 Hz).
 
 ## References
 

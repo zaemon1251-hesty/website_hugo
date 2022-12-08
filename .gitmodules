@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:zaemon1251-hesty/zaemon1251-hesty.github.io
+	branch = main

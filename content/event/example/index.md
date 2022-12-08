@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Conference
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -38,7 +38,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/CatEmperorTime
 url_code: ''
 url_pdf: ''
 url_slides: ''

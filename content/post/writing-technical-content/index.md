@@ -1,5 +1,7 @@
 ---
 title: Writing technical content in Markdown
+authors:
+  - admin
 date: 2019-07-12
 math: true
 image:
